@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comentários sobre: Crystal Mountain	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Sun, 27 Nov 2016 20:34:30 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
+	<item>
+		<title>
+		Por: Design		</title>
+		<link>./../index.html#comment-9</link>
+
+		<dc:creator><![CDATA[Design]]></dc:creator>
+		<pubDate>Sun, 27 Nov 2016 20:34:30 +0000</pubDate>
+		<guid isPermaLink="false">http://vlthemes.com/alex-zane/?p=169#comment-9</guid>
+
+					<description><![CDATA[Em resposta a &lt;a href=&quot;./../index.html#comment-8&quot;&gt;VLThemes&lt;/a&gt;.
+
+Unvab was here]]></description>
+			<content:encoded><![CDATA[<p>Em resposta a <a href="./../index.html#comment-8">VLThemes</a>.</p>
+<p>Unvab was here</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: VLThemes		</title>
+		<link>./../index.html#comment-8</link>
+
+		<dc:creator><![CDATA[VLThemes]]></dc:creator>
+		<pubDate>Sun, 27 Nov 2016 12:58:02 +0000</pubDate>
+		<guid isPermaLink="false">http://vlthemes.com/alex-zane/?p=169#comment-8</guid>
+
+					<description><![CDATA[Next time I´m going to beach I will carry a blanket instead of sunscreen in order to experiment such incredible happiness.]]></description>
+			<content:encoded><![CDATA[<p>Next time I´m going to beach I will carry a blanket instead of sunscreen in order to experiment such incredible happiness.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

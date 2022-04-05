@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comentários sobre: The Valley Of Mount Cook	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Sun, 27 Nov 2016 12:37:22 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
+	<item>
+		<title>
+		Por: VLThemes		</title>
+		<link>./../index.html#comment-5</link>
+
+		<dc:creator><![CDATA[VLThemes]]></dc:creator>
+		<pubDate>Sun, 27 Nov 2016 12:37:22 +0000</pubDate>
+		<guid isPermaLink="false">http://vlthemes.com/alex-zane/?p=161#comment-5</guid>
+
+					<description><![CDATA[Em resposta a &lt;a href=&quot;./../index.html#comment-4&quot;&gt;VLThemes&lt;/a&gt;.
+
+Your girls are bueatiful and so are the images Zane.]]></description>
+			<content:encoded><![CDATA[<p>Em resposta a <a href="./../index.html#comment-4">VLThemes</a>.</p>
+<p>Your girls are bueatiful and so are the images Zane.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: VLThemes		</title>
+		<link>./../index.html#comment-4</link>
+
+		<dc:creator><![CDATA[VLThemes]]></dc:creator>
+		<pubDate>Sun, 27 Nov 2016 12:36:48 +0000</pubDate>
+		<guid isPermaLink="false">http://vlthemes.com/alex-zane/?p=161#comment-4</guid>
+
+					<description><![CDATA[Happy Easter! Adorable family - those are some fun pictures.]]></description>
+			<content:encoded><![CDATA[<p>Happy Easter! Adorable family &#8211; those are some fun pictures.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
